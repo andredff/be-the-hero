@@ -1,6 +1,6 @@
 <!-- <img src="./static/omnistack.png" align="center"></img> -->
 <h1 align="center">Be The Hero</h1>
-<p align="center">Projeto <strong>Be The Hero</strong></p>
+<p align="center">Projeto <strong>Be The Hero</strong> Onde ONG`s cadastram casos para que o usuário entre em contato e acabe ajudando, virando o Herói deste caso!  </p>
 
 <p align="center">
   <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#10.16.0">
