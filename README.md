@@ -1,6 +1,6 @@
 <!-- <img src="./static/omnistack.png" align="center"></img> -->
-<h1 align="center">Semana Omnistack 11</h1>
-<p align="center">Projeto <strong>Be The Hero</strong> desenvolvido durante a Omnistack da Rocketseat</p>
+<h1 align="center">Be The Hero</h1>
+<p align="center">Projeto <strong>Be The Hero</strong></p>
 
 <p align="center">
   <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#10.16.0">
